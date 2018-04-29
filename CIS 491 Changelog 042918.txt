@@ -1,0 +1,9 @@
+Changelog v4.29
+
+-Now keeping track of changes! (version number represents the date)
+-Converted all files to PHP.
+-Added "active classes" to the navigation header, so now it's easier for the user to tell what pages they are on.
+-Created a basic sign up page that will launch another php that currently echo-s the user's name. No validation has been added to it yet.
+-Created a basic login page. It currently echos the username. No validation has been added yet.
+
+
